@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Yay, I received a badge from Holopin for participating in Hacktoberfest 2023. Here is a preview of the badge.
+[![An image of @bubudroid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bubudroid)](https://holopin.io/@bubudroid)
+
 <!--
 **Bubu-Droid/Bubu-Droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
