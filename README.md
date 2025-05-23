@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Yay, I received a badge from Holopin for participating in Hacktoberfest 2023. Here is a preview of the badge.
+Yay, I received a badge from Holopin for participating in Hacktoberfest 2023. Here is a preview of the Hacktoberfest 2023 badge board.
 [![An image of @bubudroid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bubudroid)](https://holopin.io/@bubudroid)
 
 <!--
