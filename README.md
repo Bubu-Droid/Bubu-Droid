@@ -1,19 +1,21 @@
-### Hi there 👋
+### Hi there :wave:
 
-Yay, I received a badge from Holopin for participating in Hacktoberfest 2023. Here is a preview of the Hacktoberfest 2023 badge board.
-[![An image of @bubudroid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bubudroid)](https://holopin.io/@bubudroid)
+I’m Avigyan (AKA Bubu-Droid), a math and CS enthusiast.
+I enjoy ricing my setup, writing scripts,
+and working in web-development a lot.
+If you’re interested, you may check out
+[my website][bubuwebsite].
 
-<!--
-**Bubu-Droid/Bubu-Droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :telescope: I’m currently working on web-development
+  and Linux ricing
+- :seedling: I’m currently learning more about shell scripting
+  and DevSecOps
+    <!-- - :dancers: I’m looking to collaborate on ... -->
+    <!-- - :thinking: I’m looking for help with ... -->
+    <!-- - :speech_balloon: Ask me about ... -->
+- :mailbox: You may reach out to me via [contact][contact]
+  <!-- - :smile: Pronouns: He/Him -->
+  <!-- - :zap: Fun fact: ... -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[bubuwebsite]: https://www.bubudroid.me/
+[contact]: https://www.bubudroid.me/contact/
