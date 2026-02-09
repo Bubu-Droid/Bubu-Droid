@@ -8,7 +8,6 @@ If you’re interested, you may check out
 
 - 🔭 I usually work on Linux ricing and web-development
 - 💻 I’m interested in learning more about shell scripting
-  and DevSecOps
 - 🌱 I’m currently learning how to edit videos using
   Davinci Resolve
     <!-- - :dancers: I’m looking to collaborate on ... -->
